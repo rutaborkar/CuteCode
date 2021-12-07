@@ -1,0 +1,16 @@
+public class MyClass {
+    public static void main(String args[]) {
+     	int p=5000;
+		int r=10;
+		int t=5;
+	//	System.out.println(p*r*t/100);
+    	System.out.println("MY FIRST JAVA PROGRAM ");
+		System.out.println("THANKS CUTTING FOR HELPING ME OUT");
+		System.out.println("YOU ARE AMAZING");
+		System.out.println("YOU ARE AN INCREDIBLE FRIEND");
+		System.out.println("YOU INSPIRE ME TO BE A BETTER PERSON");
+		System.out.println("YOUR HEART MUST BE 10 TIMES THE AVERAGE SIZE OF HUMAN");
+		System.out.println("YOU HAVE A REMARKABLE SENSE OF HUMOUR");
+		System.out.println("BAAKI SAB THEEK HAI BUT MERI TAANG MAT KHICHA KRO PLS");
+	}
+}
